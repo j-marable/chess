@@ -1,1 +1,1 @@
-# chess
+# PVP Chess Application
