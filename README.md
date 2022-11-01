@@ -6,6 +6,7 @@
   - - for and while loops
   - - break loop termination
   - - Data Type interchanges
+  - - variable creation, scope, and utilization
   - - class and method creation and utilization
   - - static method creation and utilization
   - - indexing knowledge and data manipulation
